@@ -1,2 +1,2 @@
 # Number-guessing-system
-This is a Number Guessing System created using Java, Core Java and Oops Concept
+This is a Number Guessing System created using Core Java and Oops Concept
